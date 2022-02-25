@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and vvonderful relation of a murther committed in the parish of Newington, the 12th day of this present January by a maid who poysoned her self, and cut the throat of a child</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63459</idno>
+            <idno type="STC">Wing T2586</idno>
+            <idno type="STC">ESTC R6239</idno>
+            <idno type="EEBO-CITATION">11965133</idno>
+            <idno type="OCLC">ocm 11965133</idno>
+            <idno type="VID">51694</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63459)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51694)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 519:36)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and vvonderful relation of a murther committed in the parish of Newington, the 12th day of this present January by a maid who poysoned her self, and cut the throat of a child</title>
+               </titleStmt>
+               <extent>[2], 2 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T. Benskin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in University of Pennsylvania Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Philpot, Charity, d. 1681.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:51694:1"/>
+            <!-- PDF PAGE 46 -->
+            <pb facs="tcp:51694:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 46 -->
+            <p>A True and VVonderful RELATION OF A Murther Committed in the PARISH OF Newington, <hi>The</hi> 12th. <hi>Day of this preſent</hi> January. BY A MAID WHO <hi>Poyſoned her ſelf,</hi> AND Cut the Throat OF A CHILD.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>T. Benskin,</hi> in <hi>Gaeen's Rents;</hi> neer <hi>Fleet-Bridge,</hi> 1681.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:51694:2"/>
+            <!-- PDF PAGE 47 -->
+            <pb n="1" facs="tcp:51694:2"/>
+            <!-- PDF PAGE 47 -->
+            <head>A True and VVonderful Rela<g ref="char:EOLhyphen"/>tion of a Murther Committed in the Pariſh of <hi>Newington,</hi> &amp;c.</head>
+            <p>
+               <hi>SAtan that enemy of Mankind, who goeth about as a Roaring Lyon, ſeeking whom he may devour, hath of late been very buſie amongſt us, and by his diveliſh Inſtigation, many hor<g ref="char:EOLhyphen"/>rid</hi> Murthers <hi>have been perpetrated and committed in ſeveral parts, for the which thoſe evil Inſtruments have received condign puniſhment; for according to his ſpightful and malicious nature, he always forſakes his evil Inſtruments when ever they fall into the hands of Juſtice; yet ſo frail and weak is the nature of Sin<g ref="char:EOLhyphen"/>ners, they will not take warning by the harms of others, and though they ſee Fellony and Murther every day puniſhed, by an ignomini<g ref="char:EOLhyphen"/>ous and ſhameful Death, however, by the ſubtilty of Satan, they fall into the ſame ſnare, and are over-whelmed in the pit of De<g ref="char:EOLhyphen"/>ſtruction.</hi>
+            </p>
+            <p>God, 'tis true, hath an over-ruling hand, and he often tyes up this <hi>Leviathan,</hi> that would elſe devour and deſtroy all the Race of Mankind, and we have ſeen him miraculouſly take care of this poor Nation, in Muzling this devouring Beaſt, and in making known his bloody deſigns, in plotting our Ru<g ref="char:EOLhyphen"/>ine, and deſigning horrid and bloody Maſſacres and Murthers, and finding himſelf thus reſtrained by the over ruling Hand of the Omnipotent, he ſeems inraged and furious, and where he is permitted for the Chaſtizement of ſinful Creatures, he pre<g ref="char:EOLhyphen"/>vails often on private perſons, and that way ſeems to expert and put forth his Helliſh Poyſon and Malice. But that I may not make my Porch bigger than my Houſe, or my Preamble longer than my Narration, I will enter upon it, and give you the full Narrative of it, and that upon certain knowledge of the ſame. But before I begin, I muſt obſerve, that among the many Murthers that have been committed in our Age, this is one of the moſt pittiful, and alſo the ſtrangeſt, ſhewing plain<g ref="char:EOLhyphen"/>ly the power, malice, and ſedulity of the Devil, to enter and poſſeſs Mankind, and to ſtir up both Men and Women to hor<g ref="char:EOLhyphen"/>rid and evil Actions and Murthers.</p>
+            <p>On the <hi>12th.</hi> day of this preſent <hi>January,</hi> one <hi>Charity Phil<g ref="char:EOLhyphen"/>put,</hi> being the servant of one Mrs. <hi>Mathews,</hi> a Sempſtreſs, who lives in <hi>Kent-ſtreet,</hi> in the Pariſh of <hi>Newington,</hi> neer <hi>St. Geor<g ref="char:EOLhyphen"/>ges</hi> Church; being certainly Inſtigated by the Devil, and not having the fear of God before her eyes, was poſſeſſed by him,
+<pb n="2" facs="tcp:51694:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 48 -->for on a ſudden without cauſe given, ſhe ruſhed in upon her Miſtreſs, who was in a Room with her Child with her, and with a ſtrange and fearful Look, more like a Fury, or one poſſeſſed then a Chriſtian, ſhe came towards her Miſtreſs, who being affrighted to ſee her in that manner, never obſerving her ſo before, ſhe asked of her what ſhe ailed, and what ſhe would have; the Maid, this <hi>Charity Philpot,</hi> reply'd haſtily, and told her Miſtreſs, That ſhe came to Kill her, and then ſhe would fire her Houſe. The Mrs. being in no little affright at her words, and ſeeing her come towards her, fled out of the Room, calling out for help; but in the mean time this poſſeſſed Wretch ſtepping to the affrighted and amazed Child, Cut its Throat. The Mother of it preſently returning, with ſome Neighbours, whom ſhe had called in to her Aſſiſtance, and ſeeing her Child ſprawling in its Gore, ſhe ſhrieked out, and cry'd; Oh! what have you done to my Child! The Maid preſently returned anſwer, I have cut its Throat, as I would have done yours, had you not fled, They immediately laid hold on her, and began to Interrogate her upon what occaſion ſhe had committed ſo abominable and horrible an action; ſhe told them, That a Man in an High-crown'd Hat bid her to do it, and that he had wheted the Knife and put it into her hand, and alſo told her ſhe ſhould fire the Houſe. They told her then that ſhe would be hang'd for it; ſhe replyed, no but ſhe would not, for ſhe had taken Poyſon, which ſhe ſaid ſhe had bought of ſome Apothecary neer. They took her for the preſent and lock'd her up in a Garret to ſecure her, till they could ſend for a Conſtable to have her before a Juſtice of the Peace, but ſhe had not been long in the Garret, before ſhe had flung her ſelf out at the window, and though it was two Stories high, ſhe received no hurt. But ſhe was then ſecured again, and all the windows and doors being made faſt, it being late, they left her upon the Bed, and the next morning they found her dead, for the Poyſon ſhe had taken had kill'd her, her face and body be<g ref="char:EOLhyphen"/>ing hugely Swell'd.</p>
+            <p>This is the True Relation of this Horrid Murther, as many perſons can Teſtifie; from the like Effects of Sathans Malice, <hi>Good Lord Deliver all good Chriſtians.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:51694:3"/>
+            <!-- PDF PAGE 48 -->
+         </div>
+      </body>
+   </text>
+</TEI>
